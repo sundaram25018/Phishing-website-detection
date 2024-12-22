@@ -4,6 +4,13 @@
 A phishing website is a common social engineering method that mimics trustful uniform resource locators (URLs) and webpages. The objective of this notebook is to collect data & extract the selctive features form the URLs.
 
 *This project is worked on Google Collaboratory.*
+# ** Tech Stack **
+
+<img align="left" alt="Jupyter" width="115px" style="padding-right:10px;" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> 
+
+<img align="left" alt="Jupyter" width="115px" style="padding-right:10px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img align="left" alt="Jupyter" width="115px" style="padding-right:10px;" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /><img align="left" alt="Jupyter" width="115px" style="padding-right:10px;" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><img align="left" alt="Jupyter" width="115px" style="padding-right:10px;" src="https://img.shields.io/badge/Stream-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /><img align="left" alt="Jupyter" width="115px" style="padding-right:10px;" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /><img align="left" alt="Jupyter" width="135px" style="padding:20px;" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
+<br/>
+<br/>
 
 # **2. Collecting the Data:**
 For this project, we need a bunch of urls of type legitimate (0) and phishing (1). 
